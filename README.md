@@ -1,5 +1,5 @@
 
-# ToDo-React 👋.............................................
+# ToDo-React App 👋.............................................
 
 <p style="text-align:center ">Created with CodeSandbox online editor</p>
 <h3>this is small app, that do some tasks ::</h3>
